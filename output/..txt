@@ -1,0 +1,1 @@
+stitch.py takes all files with .png from this folder & makes them into a video at 30 FPS.
